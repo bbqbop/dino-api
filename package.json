@@ -4,7 +4,8 @@
   "description": "Dino Image Api to serve imgs for memmory card game",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js",
+    "start-server": "nodemon start"
   },
   "author": "Dierk Peters",
   "license": "ISC",
